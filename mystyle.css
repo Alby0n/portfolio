@@ -1,0 +1,100 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    /* width: 100vw; */
+}
+
+p{
+width: 50%;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 3vmax;
+line-height: 123.6%;
+
+color: #2B2B2B;
+}
+
+
+#yellow
+{
+    color: #FFB400;
+}
+
+.img-div{
+    object-fit: contain;
+}
+
+#profile
+{
+}
+
+body{
+    background-image: url(bg.png);
+    background-size: 30%;
+    background-position-y: 100%;
+}
+
+#para1{
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 1rem;
+line-height: 150%;
+/* or 150% */
+
+text-transform: capitalize;
+font-feature-settings: 'calt' off, 'kern' off;
+
+/* Paragraph Font */
+
+color: #767676;
+}
+#Edu{
+/* Education */
+/* H2 - 32px */
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 123.6%;
+
+/* identical to box height, or 40px */
+
+text-transform: capitalize;
+
+/* Black */
+
+color: #2B2B2B;}
+
+
+#eP{
+    width: 100%;
+    text-align: center;
+}
+#pro{
+    width: 100%;
+    text-align: center;
+}
+#pro1{
+    /* Education */
+    /* H2 - 32px */
+    margin-top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 123.6%;
+    
+    /* identical to box height, or 40px */
+    
+    text-transform: capitalize;
+    
+    /* Black */
+    
+    color: #2B2B2B;}
